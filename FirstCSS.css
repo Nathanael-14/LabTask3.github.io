@@ -1,0 +1,33 @@
+body{
+  background: #8ee698;
+  font-size: 150%;
+  font-family: Arial;
+}
+
+header{
+  background: #e6d68e;
+  padding: 30px;
+  text-align: center;
+}
+
+.heading{
+  color: green;
+}
+
+nav{
+  font-variant: small-caps;
+}
+
+.heading2{
+  color: blue;
+  background: #e3dfcf;
+}
+
+.details{
+  font-style: italic;
+}
+
+footer{
+  background: #eb7c98;
+  padding: 13px;
+}
